@@ -1,4 +1,4 @@
 # virtual-machine-database
 ME senior project UNH
 
-test is joe here
+PLEASE CLEAN UP AFTER YOURSELF IN THIS FOLDER
